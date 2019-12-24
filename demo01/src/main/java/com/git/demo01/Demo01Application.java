@@ -9,6 +9,7 @@ public class Demo01Application {
     public static void main(String[] args) {
         System.out.println("dfdfdfdfdfdfdf");
         SpringApplication.run(Demo01Application.class, args);
+        //错错错,是我的错
     }
 
 }
